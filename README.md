@@ -14,7 +14,7 @@ The implementation follows the original **Gatys et al. (2015)** approach:
 Ensure you have the following dependencies installed:
 
 ```bash
-pip install tensorflow numpy matplotlib pillow
+pip install tensorflow numpy matplotlib pillow scipy PIL 
 ```
 
 ## How to Use
